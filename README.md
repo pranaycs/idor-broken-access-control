@@ -8,6 +8,10 @@ A Broken Access Control vulnerability in the form of an Insecure Direct Object R
 ## Vulnerability Type
 Broken Access Control – IDOR (Horizontal Privilege Escalation)
 
+## Severity
+- Risk Rating: High
+- CVSS v3.1 Base Score: 7.5
+
 ## Environment
 - Platform: PortSwigger Web Security Academy
 - Tools Used: Burp Suite Community
